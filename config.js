@@ -18,5 +18,5 @@ var config = {
     //          2.T不能丢了
     date: "2020-01-22T00:00:00",
     // 双方的名字
-    names: ["TTT", "LT"]
+    names: ["TT", "LT"]
 }
